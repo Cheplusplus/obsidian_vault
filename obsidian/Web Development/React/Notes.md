@@ -1,0 +1,1 @@
+- class attribute becomes className in React
